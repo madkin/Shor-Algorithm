@@ -1,0 +1,7 @@
+This file contain the implementation of Shor's Algorithem for 
+fatorising values of RSA key.
+
+this code is made in netbeans using java. 
+
+Feel free to download and change it according to your needs.
+(very messy code)
